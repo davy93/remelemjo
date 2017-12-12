@@ -1,0 +1,112 @@
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe.config
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.g.cs
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\App.g.cs
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.pdb
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csprojResolveAssemblyReference.cache
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.baml
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.g.resources
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csproj.GenerateResource.Cache
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.exe
+F:\NIK 15 16 1\Programozás 3\Féléves feladat\V3\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe.config
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.g.resources
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csproj.GenerateResource.Cache
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.exe
+C:\Users\david\OneDrive\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.pdb
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csprojResolveAssemblyReference.cache
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.g.cs
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\App.g.cs
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.exe
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.pdb
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe.config
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.exe
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\bin\Debug\BattleCityIN1CTT.pdb
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\MainWindow.baml
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.g.resources
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csproj.GenerateResource.Cache
+C:\Users\Zozo9\Desktop\BattleCityIN1CTT\BattleCityIN1CTT\obj\Debug\BattleCityIN1CTT.csproj.CoreCompileInputs.cache
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe.config
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.pdb
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csprojResolveAssemblyReference.cache
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.g.cs
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.g.cs
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\App.g.cs
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.baml
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.baml
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.g.resources
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.GenerateResource.Cache
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.CoreCompileInputs.cache
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.exe
+C:\Users\Zozo9\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe.config
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csprojResolveAssemblyReference.cache
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.g.cs
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.g.cs
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\App.g.cs
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.baml
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.baml
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.g.resources
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.GenerateResource.Cache
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.exe
+C:\Users\david\Desktop\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe.config
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.pdb
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csprojResolveAssemblyReference.cache
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.g.cs
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.g.cs
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\App.g.cs
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.baml
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.baml
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.g.resources
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.GenerateResource.Cache
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.exe
+C:\Users\david\OneDrive\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.pdb
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe.config
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.exe
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\bin\Debug\BattleCityIN1CTT.pdb
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csprojResolveAssemblyReference.cache
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.g.cs
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.g.cs
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\App.g.cs
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.cache
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT_MarkupCompile.lref
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\MainWindow.baml
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\Menu.baml
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.g.resources
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.Properties.Resources.resources
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.GenerateResource.Cache
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\HashtagNotDoom.csproj.CoreCompileInputs.cache
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.exe
+D:\Programok\New Game\HashtagNotDoom\HashtagNotDoom\obj\Debug\BattleCityIN1CTT.pdb

@@ -1,0 +1,16 @@
+﻿<Window x:Class="BattleCityIN1CTT.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BattleCityIN1CTT"
+        mc:Ignorable="d"
+        Title="Menu" Height="511.5" Width="772.5" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Cursor="Cross">
+    <Grid>
+        <Button Content="New Game" FontSize="24" HorizontalAlignment="Left" Margin="34,135,440,266" VerticalAlignment="Top" Width="270" Height="50" Click="Button_Click"/>
+        <Button Content="Top 10" FontSize="24" HorizontalAlignment="Left" Margin="34,211,0,0" VerticalAlignment="Top" Width="270" Height="50"/>
+        <Button Content="Help" FontSize="24" HorizontalAlignment="Left" Margin="34,295,0,0" VerticalAlignment="Top" Width="270" Height="50"/>
+        <Button Content="Exit" FontSize="24" HorizontalAlignment="Left" Margin="34,368,0,0" VerticalAlignment="Top" Width="270" Height="50"/>
+        <Label Content="HashtagNotDoom" FontSize="42" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="61,10,0,0" VerticalAlignment="Top" Height="82" Width="631"/>
+    </Grid>
+</Window>
