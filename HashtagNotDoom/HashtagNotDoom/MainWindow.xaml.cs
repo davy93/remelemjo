@@ -23,7 +23,7 @@ namespace BattleCityIN1CTT
     public partial class MainWindow : Window
     {
         const int speed = 5;
-
+        int torldle = 2;
         int palyaW, palyaH; //Canvas=Pálya. Szélessége és magassága
         ViewModel VM; //Megjelenítés
         Player PL; //Működés PlayerS
